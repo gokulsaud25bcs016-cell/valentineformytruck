@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Heart, Star, MapPin, Sword, Gift, Lock, CheckCircle, Flame, Zap } from 'lucide-react';
+import { Heart, Gift, Lock, CheckCircle, Flame, Zap } from 'lucide-react';
 import './App.css';
 
 const App = () => {
